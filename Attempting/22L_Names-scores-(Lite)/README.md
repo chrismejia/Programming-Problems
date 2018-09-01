@@ -22,6 +22,6 @@ let names = ["Josephine", "Ricardo", "Lydia", "Kimberly", "Manolo"];
 
 ---
 
-| Started     | Last revisited | Completed  |
-| ----------- | -------------- | ---------- |
-| 31-Jul-2018 | dd-MM-yyyy     | dd-MM-yyyy |
+| Started     | Latest Progress | Completed  |
+| ----------- | --------------- | ---------- |
+| 31-Jul-2018 | 31-Jul-2018     | dd-MM-yyyy |

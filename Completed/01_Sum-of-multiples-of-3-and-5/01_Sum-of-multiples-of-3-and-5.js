@@ -1,5 +1,7 @@
-// My Solution => straightforward, as expected of a problem 1
-//-----------------------------------
+//===================================
+// #1 - Solution
+// => straightforward for a first problem
+//===================================
 
 const countMultiples = maxNum => {
   let finalSum = 0;
@@ -14,5 +16,3 @@ const countMultiples = maxNum => {
 };
 
 countMultiples(1000); //=> 233168 [Correct]
-
-// for (let i = 0; i <= maxNum; i++) {   // Problem said UNDER 1000! ==> 234168

@@ -33,6 +33,6 @@ Find the product **abc**.
 
 ---
 
-| Started     | Last revisited | Completed  |
-| ----------- | -------------- | ---------- |
-| 28-Jul-2018 | dd-MM-yyyy     | dd-MM-yyyy |
+| Started     | Latest Progress | Completed  |
+| ----------- | --------------- | ---------- |
+| 28-Jul-2018 | 28-Jul-2018     | dd-MM-yyyy |

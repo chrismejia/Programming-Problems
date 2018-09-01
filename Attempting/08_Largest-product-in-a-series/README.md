@@ -31,6 +31,6 @@ Find the thirteen adjacent digits in the 1000-digit number that have the greates
 
 ---
 
-| Started     | Last revisited | Completed  |
-| ----------- | -------------- | ---------- |
-| 31-Aug-2018 | dd-MM-yyyy     | dd-MM-yyyy |
+| Started     | Latest Progress | Completed  |
+| ----------- | --------------- | ---------- |
+| 31-Aug-2018 | 31-Aug-2018     | dd-MM-yyyy |

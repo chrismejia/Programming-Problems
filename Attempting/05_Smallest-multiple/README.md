@@ -8,6 +8,6 @@ What is the smallest positive number that is evenly divisible by all of the numb
 
 ---
 
-| Started     | Last revisited | Completed  |
-| ----------- | -------------- | ---------- |
-| 31-Jul-2018 | dd-MM-yyyy     | dd-MM-yyyy |
+| Started     | Latest Progress | Completed  |
+| ----------- | --------------- | ---------- |
+| 31-Jul-2018 | 31-Jul-2018     | dd-MM-yyyy |

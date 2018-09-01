@@ -1,12 +1,7 @@
-// My Idea
-//-----------------------------------
-
-// Have one for loop 1->100
-// addThenSquare and squareThenAdd
-// return (addThenSquare - squareThenAdd);
-
-// My Solution
-//-----------------------------------
+//===================================
+// #6 - Solution
+// => ideas in notes worked out pretty good
+//===================================
 
 const sumSquareDiff = maxNum => {
   let addThenSquare = 0;
