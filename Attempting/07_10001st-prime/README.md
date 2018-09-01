@@ -1,6 +1,4 @@
-# 10001st Prime
-
-## Problem 7 - [Link](https://projecteuler.net/problem=7)
+# #7 - [10001st Prime](https://projecteuler.net/problem=8)
 
 By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
 

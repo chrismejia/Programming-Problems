@@ -1,6 +1,4 @@
-# Problem name
-
-## Problem ## - [Link](CHANGE ME)
+# ##[Problem Name Here](LINK GOES HERE CHANGE ME)
 
 Problem statement goes here.
 

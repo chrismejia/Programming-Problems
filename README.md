@@ -9,7 +9,7 @@
 | \#1 - Multiples of 3 and 5        | 06-Jun-2016  | [Prob 1](https://git.io/fAW6y) |
 | \#2 - Even Fibonacci Numbers      | 15-Jun-2016  | [Prob 2](https://git.io/fAW6S) |
 | \#6 - Sum square difference       | 16-Jun-2016  | [Prob 6](https://git.io/fAW69) |
-| \#8 - Largest product in a series | 01-Sep-2018  | [Prob 8](https://git.io/fAWiK) |
+| \#8 - Largest product in a series | 01-Sep-2018  | [Prob 8](https://git.io/fAWST) |
 
 ---
 
@@ -37,6 +37,16 @@
   ##_Notes.md         -- working notes, comments and scratch code
   README.md           -- problem statement, page link, and pertinent dates
 ```
+
+#### Competed Problem Commit flow
+
+1. Correct Answer
+2. Snapshot of completion → png
+3. Update Local readme with date and completion number
+4. Move problem directory to 'Completed'
+5. Commit
+6. Update main readme link
+7. Final problem commit
 
 #### Sample Multi-line commit message
 
