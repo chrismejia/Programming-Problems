@@ -4,11 +4,12 @@
 
 ## Completed
 
-| Problem                      | Completed On | Code Link                      |
-| ---------------------------- | ------------ | ------------------------------ |
-| \#1 - Multiples of 3 and 5   | 06-Jun-2016  | [Prob 1](https://git.io/fAW6y) |
-| \#2 - Even Fibonacci Numbers | 15-Jun-2016  | [Prob 2](https://git.io/fAW6S) |
-| \#6 - Sum square difference  | 16-Jun-2016  | [Prob 6](https://git.io/fAW69) |
+| Problem                           | Completed On | Code Link                      |
+| --------------------------------- | ------------ | ------------------------------ |
+| \#1 - Multiples of 3 and 5        | 06-Jun-2016  | [Prob 1](https://git.io/fAW6y) |
+| \#2 - Even Fibonacci Numbers      | 15-Jun-2016  | [Prob 2](https://git.io/fAW6S) |
+| \#6 - Sum square difference       | 16-Jun-2016  | [Prob 6](https://git.io/fAW69) |
+| \#8 - Largest product in a series | 01-Sep-2018  | [Prob 8](https://git.io/fAWiK) |
 
 ---
 
@@ -19,7 +20,6 @@
 | \#4 - Largest palindrome product  | 30-Jul-2018 | 30-Jul-2018     | [Prob 4](https://git.io/fAWiw)   |
 | \#5 - Smallest multiple           | 31-Jul-2018 | 31-Jul-2018     | [Prob 5](https://git.io/fAWir)   |
 | \#7 - 10 001st prime              | 29-Jul-2018 | 29-Jul-2018     | [Prob 7](https://git.io/fAWio)   |
-| \#8 - Largest product in a series | 31-Jul-2018 | 31-Jul-2018     | [Prob 8](https://git.io/fAWiK)   |
 | \#9 - Special pythagorean triplet | 28-Jul-2018 | 28-Jul-2018     | [Prob 9](https://git.io/fAWi6)   |
 | \#22L - Names scores (lite)       | 31-Jul-2018 | 31-Jul-2018     | [Prob 22L](https://git.io/fAWii) |
 
