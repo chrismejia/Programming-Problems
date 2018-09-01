@@ -69,4 +69,4 @@ To Template
 Base folder, js, and md folder templates"
 ```
 
-[What the above message looks like committed](https://git.io/fAWiC)
+[How a message committed like this looks](https://git.io/fAWiC)
