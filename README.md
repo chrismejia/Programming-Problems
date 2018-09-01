@@ -1,6 +1,4 @@
-# Problems-ProjectEuler
-
-## [Project Euler problems](https://projecteuler.net) I've completed and attempted.
+# [Project Euler problems](https://projecteuler.net) I've completed and attempted.
 
 ## Completed
 
@@ -25,7 +23,7 @@
 
 ---
 
-### Useful Editing Info
+## Useful Editing Info
 
 #### [GitHub Link Shortener](https://git.io/)
 
@@ -38,7 +36,7 @@
   README.md           -- problem statement, page link, and pertinent dates
 ```
 
-#### Competed Problem Commit flow
+#### Competed Problem Commit Flow
 
 1. Correct Answer
 2. Snapshot of completion → png
@@ -48,7 +46,7 @@
 6. Update main readme link
 7. Final problem commit
 
-#### Sample Multi-line commit message
+#### Sample Multi-line Commit Message
 
 ```
 git commit -m "<= 50 char change summary title"
