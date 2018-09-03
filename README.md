@@ -1,26 +1,26 @@
-# [Project Euler problems](https://projecteuler.net) I've completed and attempted.
+# Collection of programming problems I've done [Project Euler problems](https://projecteuler.net) I've completed and attempted.
 
-## Completed
+## Last Completed
 
-| Problem                           | Completed On | Code Link                      |
-| --------------------------------- | ------------ | ------------------------------ |
-| \#1 - Multiples of 3 and 5        | 06-Jun-2016  | [Prob 1](https://git.io/fAW6y) |
-| \#2 - Even Fibonacci Numbers      | 15-Jun-2016  | [Prob 2](https://git.io/fAW6S) |
-| \#6 - Sum square difference       | 16-Jun-2016  | [Prob 6](https://git.io/fAW69) |
-| \#8 - Largest product in a series | 01-Sep-2018  | [Prob 8](https://git.io/fAWST) |
+| Problem                           | Completed   | Code Link                      |
+| --------------------------------- | ----------- | ------------------------------ |
+| \#8 - Largest product in a series | 01-Sep-2018 | [Prob 8](https://git.io/fAWST) |
+| \#1 - Multiples of 3 and 5        | 06-Jun-2016 | [Prob 1](https://git.io/fAW6y) |
+| \#2 - Even Fibonacci Numbers      | 15-Jun-2016 | [Prob 2](https://git.io/fAW6S) |
+| \#6 - Sum square difference       | 16-Jun-2016 | [Prob 6](https://git.io/fAW69) |
 
 ---
 
-## Attempting
+## Need to Revisit
 
-| Problem                            | Start Date  | Latest Progress | Code Link                        |
-| ---------------------------------- | ----------- | --------------- | -------------------------------- |
-| \#4 - Largest palindrome product   | 30-Jul-2018 | 30-Jul-2018     | [Prob 4](https://git.io/fAWiw)   |
-| \#5 - Smallest multiple            | 31-Jul-2018 | 31-Jul-2018     | [Prob 5](https://git.io/fAWir)   |
-| \#7 - 10 001st prime               | 29-Jul-2018 | 29-Jul-2018     | [Prob 7](https://git.io/fAWio)   |
-| \#9 - Special pythagorean triplet  | 28-Jul-2018 | 28-Jul-2018     | [Prob 9](https://git.io/fAWi6)   |
-| \#22L - Names scores (lite)        | 31-Jul-2018 | 31-Jul-2018     | [Prob 22L](https://git.io/fAWii) |
-| \#25 - 1000-digit Fibonacci number | 01-Sep-2018 | 01-Sep-2018     | [Prob 25](https://git.io/fAlsI)  |
+| Problem                            | Revisited   | Code Link                        |
+| ---------------------------------- | ----------- | -------------------------------- |
+| \#25 - 1000-digit Fibonacci number | 02-Sep-2018 | [Prob 25](https://git.io/fAlsI)  |
+| \#5 - Smallest multiple            | 31-Jul-2018 | [Prob 5](https://git.io/fAWir)   |
+| \#22L - Names scores (lite)        | 31-Jul-2018 | [Prob 22L](https://git.io/fAWii) |
+| \#4 - Largest palindrome product   | 30-Jul-2018 | [Prob 4](https://git.io/fAWiw)   |
+| \#7 - 10 001st prime               | 29-Jul-2018 | [Prob 7](https://git.io/fAWio)   |
+| \#9 - Special pythagorean triplet  | 28-Jul-2018 | [Prob 9](https://git.io/fAWi6)   |
 
 ---
 
