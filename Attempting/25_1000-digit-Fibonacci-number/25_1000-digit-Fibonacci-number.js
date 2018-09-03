@@ -4,22 +4,32 @@
 
 const thousandDigitFibNum = () => {
   debugger;
-  let fibArr = [1, 1];
-  let newFib = 0;
-  let newFibLen = 1;
+  // fibTerm = 102
+  // 573147844013817200000 => 21
+  // 927372692193079200000 => 21
 
-  // 24 and above cause perceived infinite return
+  // let fibOne = 573147844013817200000;
+  // let fibTwo = 927372692193079200000;
+  // default values
+  let fibOne = 1;
+  let fibTwo = 1;
+  let fibTerm = 2;
+  let fibDoesNotHave1000Digits = true;
 
-  while (newFibLen < 23) {
-    let sliceArr = fibArr.slice(-2);
-    let fibOne = sliceArr[0];
-    let fibTwo = sliceArr[1];
+  while (fibDoesNotHave1000Digits) {
+    let newFib = fibOne + fibTwo;
 
-    newFib = fibOne + fibTwo;
-    fibArr.push(newFib);
-    newFibLen = newFib.toString().length;
-    console.log(`[len = ${newFibLen}]`);
+    if (newFib.toString().includes("e+999")) {
+      fibDoesNotHave1000Digits = false;
+      return fibTerm;
+    }
+    // increment fibonacci sequence term
+    fibTerm++;
+    // reassign first two terms
+    fibOne = fibTwo;
+    fibTwo = newFib;
   }
 };
 
 thousandDigitFibNum();
+// newFib.toString().includes('e+20')
