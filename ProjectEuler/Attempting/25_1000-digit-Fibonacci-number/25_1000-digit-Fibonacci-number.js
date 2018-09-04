@@ -32,4 +32,3 @@ const thousandDigitFibNum = () => {
 };
 
 thousandDigitFibNum();
-// newFib.toString().includes('e+20')

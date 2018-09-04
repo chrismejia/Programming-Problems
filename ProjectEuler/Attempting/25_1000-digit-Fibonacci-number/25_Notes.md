@@ -10,6 +10,8 @@ What is the index of the first term in the Fibonacci sequence to contain 1000 di
 - test length of newFib
   - if newFib length === 1000 > return index of newFib
 
+## 2nd Attempt - .toString().includes('e+999')
+
 newFib.toString().length doesn't work
 
 '2.70607408246957e+36'.toString().length; //=> 20
@@ -28,4 +30,44 @@ fibTerm = 102
 =
 1.5005205362068963e+21 => 22 chars
 
-try newFib.toString().includes('e+20')
+try newFib.toString().includes('e+999')
+
+```
+const thousandDigitFibNum = () => {
+  debugger;
+  // fibTerm = 102
+  // 573147844013817200000 => 21
+  // 927372692193079200000 => 21
+
+  // let fibOne = 573147844013817200000;
+  // let fibTwo = 927372692193079200000;
+  // default values
+  let fibOne = 1;
+  let fibTwo = 1;
+  let fibTerm = 2;
+  let fibDoesNotHave1000Digits = true;
+
+  while (fibDoesNotHave1000Digits) {
+    let newFib = fibOne + fibTwo;
+
+    if (newFib.toString().includes("e+999")) {
+      fibDoesNotHave1000Digits = false;
+      return fibTerm;
+    }
+    // increment fibonacci sequence term
+    fibTerm++;
+    // reassign first two terms
+    fibOne = fibTwo;
+    fibTwo = newFib;
+  }
+};
+
+thousandDigitFibNum();
+```
+
+**2nd Attempt Failure:** .includes('e+308') => returns fibTerm = 1475
+
+## 3rd Attempt - .toExponential().includes('e+999')
+
+might turn out better if we truncate the answer using .toExponential()
+-> that returns a string like toString() does
