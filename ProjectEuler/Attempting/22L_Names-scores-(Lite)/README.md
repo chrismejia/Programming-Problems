@@ -20,6 +20,6 @@ let names = ["Josephine", "Ricardo", "Lydia", "Kimberly", "Manolo"];
 
 ---
 
-| Started     | Latest Progress | Completed  |
-| ----------- | --------------- | ---------- |
-| 31-Jul-2018 | 31-Jul-2018     | dd-MM-yyyy |
+| Started     | Latest Progress | Completed   |
+| ----------- | --------------- | ----------- |
+| 31-Jul-2018 | 31-Jul-2018     | dd-MMM-yyyy |

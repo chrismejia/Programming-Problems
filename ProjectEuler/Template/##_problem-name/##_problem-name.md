@@ -4,6 +4,6 @@ Problem statement goes here.
 
 ---
 
-| Started    | Last revisited | Completed  |
-| ---------- | -------------- | ---------- |
-| dd-MM-yyyy | dd-MM-yyyy     | dd-MM-yyyy |
+| Started     | Last revisited | Completed   |
+| ----------- | -------------- | ----------- |
+| dd-MMM-yyyy | dd-MMM-yyyy    | dd-MMM-yyyy |

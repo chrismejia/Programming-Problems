@@ -31,6 +31,6 @@ Find the product **abc**.
 
 ---
 
-| Started     | Latest Progress | Completed  |
-| ----------- | --------------- | ---------- |
-| 28-Jul-2018 | 28-Jul-2018     | dd-MM-yyyy |
+| Started     | Latest Progress | Completed   |
+| ----------- | --------------- | ----------- |
+| 28-Jul-2018 | 28-Jul-2018     | dd-MMM-yyyy |

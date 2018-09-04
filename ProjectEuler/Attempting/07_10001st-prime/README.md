@@ -6,6 +6,6 @@ What is the 10 001st prime number?
 
 ---
 
-| Started     | Latest Progress | Completed  |
-| ----------- | --------------- | ---------- |
-| 29-Jul-2018 | 29-Jul-2018     | dd-MM-yyyy |
+| Started     | Latest Progress | Completed   |
+| ----------- | --------------- | ----------- |
+| 29-Jul-2018 | 29-Jul-2018     | dd-MMM-yyyy |

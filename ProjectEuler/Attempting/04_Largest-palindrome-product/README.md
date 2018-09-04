@@ -6,6 +6,6 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 
 ---
 
-| Started     | Latest Progress | Completed  |
-| ----------- | --------------- | ---------- |
-| 30-Jul-2018 | 30-Jul-2018     | dd-MM-yyyy |
+| Started     | Latest Progress | Completed   |
+| ----------- | --------------- | ----------- |
+| 30-Jul-2018 | 30-Jul-2018     | dd-MMM-yyyy |

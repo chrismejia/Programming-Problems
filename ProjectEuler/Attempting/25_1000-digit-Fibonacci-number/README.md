@@ -26,6 +26,6 @@ What is the index of the first term in the Fibonacci sequence to contain 1000 di
 
 ---
 
-| Started     | Revisited   | Completed  |
-| ----------- | ----------- | ---------- |
-| 01-Sep-2018 | 02-Sep-2018 | dd-MM-yyyy |
+| Started     | Revisited   | Completed   |
+| ----------- | ----------- | ----------- |
+| 01-Sep-2018 | 02-Sep-2018 | dd-MMM-yyyy |
