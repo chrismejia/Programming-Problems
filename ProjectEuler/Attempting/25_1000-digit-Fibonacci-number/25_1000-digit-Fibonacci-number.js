@@ -19,7 +19,7 @@ const thousandDigitFibNum = () => {
   while (fibDoesNotHave1000Digits) {
     let newFib = fibOne + fibTwo;
 
-    if (newFib.toString().includes("e+999")) {
+    if (newFib.toExponential(1).includes("e+999")) {
       fibDoesNotHave1000Digits = false;
       return fibTerm;
     }

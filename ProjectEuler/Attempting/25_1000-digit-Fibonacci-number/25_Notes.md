@@ -65,9 +65,54 @@ const thousandDigitFibNum = () => {
 thousandDigitFibNum();
 ```
 
-**2nd Attempt Failure:** .includes('e+308') => returns fibTerm = 1475
+**2nd Attempt Failure:** .includes('e+307') => returns fibTerm = 1475
 
 ## 3rd Attempt - .toExponential().includes('e+999')
 
 might turn out better if we truncate the answer using .toExponential()
 -> that returns a string like toString() does
+
+```
+// ===================================
+// 25 - Solution
+// ===================================
+
+const thousandDigitFibNum = () => {
+  debugger;
+  // fibTerm = 102
+  // 573147844013817200000 => 21
+  // 927372692193079200000 => 21
+
+  // let fibOne = 573147844013817200000;
+  // let fibTwo = 927372692193079200000;
+  // default values
+  let fibOne = 1;
+  let fibTwo = 1;
+  let fibTerm = 2;
+  let fibDoesNotHave1000Digits = true;
+
+  while (fibDoesNotHave1000Digits) {
+    let newFib = fibOne + fibTwo;
+
+    if (newFib.toExponential(1).includes("e+999")) {
+      fibDoesNotHave1000Digits = false;
+      return fibTerm;
+    }
+    // increment fibonacci sequence term
+    fibTerm++;
+    // reassign first two terms
+    fibOne = fibTwo;
+    fibTwo = newFib;
+  }
+};
+
+thousandDigitFibNum();
+```
+
+**3rd Attempt Failure:** .includes('e+307') => returns fibTerm = 1475
+
+I think that this has more to do with the maximum value of types of numbers.
+
+## 4th Attempt - Addressing how infinity is defined in JS
+
+1.7976931348623157e+308 is the max value JS can output; anything above that outputs infinity
