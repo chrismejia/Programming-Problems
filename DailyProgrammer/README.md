@@ -2,9 +2,9 @@
 
 ## Completed
 
-| Problem         | Completed   | Code Link                           |
-| --------------- | ----------- | ----------------------------------- |
-| #76: Title Case | 05-Sep-2018 | [Problem](Update link after commit) |
+| Problem                | Completed   | Code Link                       |
+| ---------------------- | ----------- | ------------------------------- |
+| #76: Title Case [Easy] | 05-Sep-2018 | [Problem](https://git.io/fAREH) |
 
 ## Need to Revisit
 

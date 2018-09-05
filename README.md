@@ -10,7 +10,7 @@ My notes and answers as JS files are also available to show my answer and steps 
 
 | Problem                     | Source | Completed   | Prompt & Code                   |
 | --------------------------- | ------ | ----------- | ------------------------------- |
-| #76 - Title case [Easy]     | DAILY  | 05-Sep-2018 | [Problem](https://git.io/fARtq) |
+| #76: Title Case [Easy]      | DAILY  | 05-Sep-2018 | [Problem](https://git.io/fAREH) |
 | All String Combinations     | W3R    | 04-Sep-2018 | [Problem](https://git.io/fARtq) |
 | #6 - Sum square difference  | EULER  | 16-Jun-2016 | [Prob 6](https://git.io/fARtl)  |
 | #2 - Even Fibonacci Numbers | EULER  | 15-Jun-2016 | [Prob 2](https://git.io/fARtC)  |
@@ -25,6 +25,8 @@ My notes and answers as JS files are also available to show my answer and steps 
 | #22L - Names scores (lite)        | EULER  | 31-Jul-2018 | [Prob 22L](https://git.io/fARtH) |
 | #4 - Largest palindrome product   | EULER  | 30-Jul-2018 | [Prob 4](https://git.io/fARt6)   |
 | #7 - 10 001st prime               | EULER  | 29-Jul-2018 | [Prob 7](https://git.io/fARtM)   |
+
+### [View Master List of Problems](https://git.io/fARuO)
 
 ---
 
