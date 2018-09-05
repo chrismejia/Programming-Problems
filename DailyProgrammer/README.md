@@ -2,15 +2,15 @@
 
 ## Completed
 
-| Problem      | Completed   | Code Link                           |
-| ------------ | ----------- | ----------------------------------- |
-| Problem name | dd-MMM-yyyy | [Problem](Update link after commit) |
+| Problem         | Completed   | Code Link                           |
+| --------------- | ----------- | ----------------------------------- |
+| #76: Title Case | 05-Sep-2018 | [Problem](Update link after commit) |
 
 ## Need to Revisit
 
-| Problem         | Revisited   | Code Link                           |
-| --------------- | ----------- | ----------------------------------- |
-| #72: Title Case | 04-Sep-2018 | [Problem](Update link after commit) |
+| Problem      | Revisited   | Code Link                           |
+| ------------ | ----------- | ----------------------------------- |
+| Problem name | dd-MMM-yyyy | [Problem](Update link after commit) |
 
 ---
 

@@ -4,6 +4,7 @@
 
 | Problem                           | Source | Completed   | Code Link                       |
 | --------------------------------- | ------ | ----------- | ------------------------------- |
+| Challenge #76 [Easy]              | DAILY  | 05-Sep-2018 | [Problem](https://git.io/fARtq) |
 | All String Combinations           | W3R    | 04-Sep-2018 | [Problem](https://git.io/fARtq) |
 | \#1 - Multiples of 3 and 5        | EULER  | 06-Jun-2016 | [Prob 1](https://git.io/fARtG)  |
 | \#2 - Even Fibonacci Numbers      | EULER  | 15-Jun-2016 | [Prob 2](https://git.io/fARtC)  |

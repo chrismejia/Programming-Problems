@@ -32,4 +32,4 @@ The Vitamins are in my Fresh California Raisins
 
 | Started     | Last revisited | Completed   |
 | ----------- | -------------- | ----------- |
-| 04-Sep-2018 | 04-Sep-2018    | dd-MMM-yyyy |
+| 04-Sep-2018 | 04-Sep-2018    | 05-Sep-2018 |
