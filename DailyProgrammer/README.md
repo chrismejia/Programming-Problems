@@ -1,16 +1,16 @@
-# [w3resource JS problems](https://www.w3resource.com/javascript-exercises/) I've completed and attempted.
+# [r/dailyprogrammer problems](https://www.reddit.com/r/dailyprogrammer/) I've completed and attempted.
 
 ## Completed
 
-| Problem                 | Completed   | Code Link                       |
-| ----------------------- | ----------- | ------------------------------- |
-| All String Combinations | 04-Sep-2018 | [Problem](https://git.io/fARtq) |
+| Problem      | Completed   | Code Link                           |
+| ------------ | ----------- | ----------------------------------- |
+| Problem name | dd-MMM-yyyy | [Problem](Update link after commit) |
 
 ## Need to Revisit
 
-| Problem      | Revisited   | Code Link                           |
-| ------------ | ----------- | ----------------------------------- |
-| Problem name | dd-MMM-yyyy | [Problem](Update link after commit) |
+| Problem         | Revisited   | Code Link                           |
+| --------------- | ----------- | ----------------------------------- |
+| #72: Title Case | 04-Sep-2018 | [Problem](Update link after commit) |
 
 ---
 
