@@ -8,13 +8,13 @@ My notes and answers as JS files are also available to show my answer and steps 
 
 ### Last 5 Completed
 
-| Problem                     | Source | Completed   | Prompt & Code                   |
-| --------------------------- | ------ | ----------- | ------------------------------- |
-| #76: Title Case [Easy]      | DAILY  | 05-Sep-2018 | [Problem](https://git.io/fAREH) |
-| All String Combinations     | W3R    | 04-Sep-2018 | [Problem](https://git.io/fARtq) |
-| #6 - Sum square difference  | EULER  | 16-Jun-2016 | [Prob 6](https://git.io/fARtl)  |
-| #2 - Even Fibonacci Numbers | EULER  | 15-Jun-2016 | [Prob 2](https://git.io/fARtC)  |
-| #1 - Multiples of 3 and 5   | EULER  | 06-Jun-2016 | [Prob 1](https://git.io/fARtG)  |
+| Problem                     | Source | Completed   | Prompt & Code                       |
+| --------------------------- | ------ | ----------- | ----------------------------------- |
+| Two Sum                     | LEET   | 06-Sep-2018 | [Problem](Update link after commit) |
+| #76: Title Case [Easy]      | DAILY  | 05-Sep-2018 | [Problem](https://git.io/fAREH)     |
+| All String Combinations     | W3R    | 04-Sep-2018 | [Problem](https://git.io/fARtq)     |
+| #6 - Sum square difference  | EULER  | 16-Jun-2016 | [Prob 6](https://git.io/fARtl)      |
+| #2 - Even Fibonacci Numbers | EULER  | 15-Jun-2016 | [Prob 2](https://git.io/fARtC)      |
 
 ### Last 5 Revisited
 
@@ -32,9 +32,12 @@ My notes and answers as JS files are also available to show my answer and steps 
 
 ### Sites I Visit for Problems
 
-- [[WARS] Codewars:](https://www.codewars.com/) Programming exercises train a variety of skills
 - [[DAILY] DailyProgrammer:](https://www.reddit.com/r/dailyprogrammer) 3 challenges a week are posted at increasing difficulty.
 - [[EULER] Project Euler:](https://projecteuler.net/archives) Math-oriented programming problems
+
+- [[LEET] LeetCode:](https://www.codewars.com/) An effective resource to prepare for technical interviews and practice poding questions
+- [[WARS] Codewars:](https://www.codewars.com/) Programming exercises train a variety of skills
+
 - [[W3R] w3resource | JS:](https://projecteuler.net/archives) Collection of JS problems organized into categories
 
 #### [GitHub Link Shortener](https://git.io/)
