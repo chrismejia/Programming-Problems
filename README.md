@@ -18,13 +18,14 @@ My notes and answers as JS files are also available to show my answer and steps 
 
 ### Last 5 Revisited
 
-| Problem                           | Source | Revisited   | Prompt & Code                    |
-| --------------------------------- | ------ | ----------- | -------------------------------- |
-| #25 - 1000-digit Fibonacci number | EULER  | 02-Sep-2018 | [Prob 25](https://git.io/fARt7)  |
-| #5 - Smallest multiple            | EULER  | 31-Jul-2018 | [Prob 5](https://git.io/fARtX)   |
-| #22L - Names scores (lite)        | EULER  | 31-Jul-2018 | [Prob 22L](https://git.io/fARtH) |
-| #4 - Largest palindrome product   | EULER  | 30-Jul-2018 | [Prob 4](https://git.io/fARt6)   |
-| #7 - 10 001st prime               | EULER  | 29-Jul-2018 | [Prob 7](https://git.io/fARtM)   |
+| Problem                           | Source | Revisited   | Prompt & Code                       |
+| --------------------------------- | ------ | ----------- | ----------------------------------- |
+| #354 [Easy]: Integer Complexity 1 | DAILY  | 07-Sep-2018 | [Problem](Update link after commit) |
+| #25 - 1000-digit Fibonacci number | EULER  | 02-Sep-2018 | [Prob 25](https://git.io/fARt7)     |
+| #5 - Smallest multiple            | EULER  | 31-Jul-2018 | [Prob 5](https://git.io/fARtX)      |
+| #22L - Names scores (lite)        | EULER  | 31-Jul-2018 | [Prob 22L](https://git.io/fARtH)    |
+| #4 - Largest palindrome product   | EULER  | 30-Jul-2018 | [Prob 4](https://git.io/fARt6)      |
+| #7 - 10 001st prime               | EULER  | 29-Jul-2018 | [Prob 7](https://git.io/fARtM)      |
 
 ### [View Master List of Problems](https://git.io/fAz0p)
 
