@@ -107,3 +107,5 @@ BASE  UPPER BOUND
 
 upperBound test pass; 140 - 11 = 129 numbers saved from testing
 ```
+
+Don't even need internal array; just add on the spot.

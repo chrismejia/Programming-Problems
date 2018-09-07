@@ -8,9 +8,9 @@
 
 ## Need to Revisit
 
-| Problem                           | Revisited   | Code Link                           |
-| --------------------------------- | ----------- | ----------------------------------- |
-| #354 [Easy]: Integer Complexity 1 | 07-Sep-2018 | [Problem](Update link after commit) |
+| Problem                           | Revisited   | Code Link                       |
+| --------------------------------- | ----------- | ------------------------------- |
+| #354 [Easy]: Integer Complexity 1 | 07-Sep-2018 | [Problem](https://git.io/fAzMg) |
 
 ---
 
