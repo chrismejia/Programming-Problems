@@ -34,10 +34,8 @@ My notes and answers as JS files are also available to show my answer and steps 
 
 - [[DAILY] DailyProgrammer:](https://www.reddit.com/r/dailyprogrammer) 3 challenges a week are posted at increasing difficulty.
 - [[EULER] Project Euler:](https://projecteuler.net/archives) Math-oriented programming problems
-
-- [[LEET] LeetCode:](https://www.codewars.com/) An effective resource to prepare for technical interviews and practice poding questions
+- [[LEET] LeetCode:](https://leetcode.com/) An effective resource to prepare for technical interviews and practice poding questions
 - [[WARS] Codewars:](https://www.codewars.com/) Programming exercises train a variety of skills
-
 - [[W3R] w3resource | JS:](https://projecteuler.net/archives) Collection of JS problems organized into categories
 
 ### More Resources
