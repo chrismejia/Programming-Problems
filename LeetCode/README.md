@@ -2,15 +2,15 @@
 
 ## Completed
 
-| Problem | Completed   | Code Link                           |
-| ------- | ----------- | ----------------------------------- |
-| Two Sum | 06-Sep-2018 | [Problem](Update link after commit) |
+| Problem | Completed   | Code Link                       |
+| ------- | ----------- | ------------------------------- |
+| Two Sum | 06-Sep-2018 | [Problem](https://git.io/fAzUw) |
 
 ## Need to Revisit
 
-| Problem      | Revisited   | Code Link                           |
-| ------------ | ----------- | ----------------------------------- |
-| Problem name | dd-MMM-yyyy | [Problem](Update link after commit) |
+| Problem                         | Revisited   | Code Link                           |
+| ------------------------------- | ----------- | ----------------------------------- |
+| Longest Non-repeating Substring | 06-Sep-2018 | [Problem](Update link after commit) |
 
 ---
 

@@ -2,15 +2,15 @@
 
 ## Completed (7)
 
-| Problem                          | Source | Completed   | Code Link                           |
-| -------------------------------- | ------ | ----------- | ----------------------------------- |
-| Two Sum                          | LEET   | 06-Sep-2018 | [Problem](Update link after commit) |
-| #76: Title Case [Easy]           | DAILY  | 05-Sep-2018 | [Problem](https://git.io/fAREH)     |
-| All String Combinations          | W3R    | 04-Sep-2018 | [Problem](https://git.io/fARtq)     |
-| #1 - Multiples of 3 and 5        | EULER  | 06-Jun-2016 | [Prob 1](https://git.io/fARtG)      |
-| #2 - Even Fibonacci Numbers      | EULER  | 15-Jun-2016 | [Prob 2](https://git.io/fARtC)      |
-| #6 - Sum square difference       | EULER  | 16-Jun-2016 | [Prob 6](https://git.io/fARtl)      |
-| #8 - Largest product in a series | EULER  | 01-Sep-2018 | [Prob 8](https://git.io/fARt0)      |
+| Problem                          | Source | Completed   | Code Link                       |
+| -------------------------------- | ------ | ----------- | ------------------------------- |
+| Two Sum                          | LEET   | 06-Sep-2018 | [Problem](https://git.io/fAzUw) |
+| #76: Title Case [Easy]           | DAILY  | 05-Sep-2018 | [Problem](https://git.io/fAREH) |
+| All String Combinations          | W3R    | 04-Sep-2018 | [Problem](https://git.io/fARtq) |
+| #1 - Multiples of 3 and 5        | EULER  | 06-Jun-2016 | [Prob 1](https://git.io/fARtG)  |
+| #2 - Even Fibonacci Numbers      | EULER  | 15-Jun-2016 | [Prob 2](https://git.io/fARtC)  |
+| #6 - Sum square difference       | EULER  | 16-Jun-2016 | [Prob 6](https://git.io/fARtl)  |
+| #8 - Largest product in a series | EULER  | 01-Sep-2018 | [Prob 8](https://git.io/fARt0)  |
 
 ## Need to Revisit (6)
 
