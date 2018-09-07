@@ -8,13 +8,13 @@ My notes and answers as JS files are also available to show my answer and steps 
 
 ### Last 5 Completed
 
-| Problem                         | Source | Completed   | Prompt & Code                   |
-| ------------------------------- | ------ | ----------- | ------------------------------- |
-| Longest Non-repeating Substring | LEET   | 07-Sep-2018 | [Problem](https://git.io/fAz0T) |
-| Two Sum                         | LEET   | 06-Sep-2018 | [Problem](https://git.io/fAzUw) |
-| #76: Title Case [Easy]          | DAILY  | 05-Sep-2018 | [Problem](https://git.io/fAREH) |
-| All String Combinations         | W3R    | 04-Sep-2018 | [Problem](https://git.io/fARtq) |
-| #6 - Sum square difference      | EULER  | 16-Jun-2016 | [Prob 6](https://git.io/fARtl)  |
+| Problem                         | Source | Completed   | Prompt & Code                       |
+| ------------------------------- | ------ | ----------- | ----------------------------------- |
+| Median of Two Sorted Arrays     | LEET   | 07-Sep-2018 | [Problem](Update link after commit) |
+| Longest Non-repeating Substring | LEET   | 07-Sep-2018 | [Problem](https://git.io/fAzuK)     |
+| Two Sum                         | LEET   | 06-Sep-2018 | [Problem](https://git.io/fAzUw)     |
+| #76: Title Case [Easy]          | DAILY  | 05-Sep-2018 | [Problem](https://git.io/fAREH)     |
+| All String Combinations         | W3R    | 04-Sep-2018 | [Problem](https://git.io/fARtq)     |
 
 ### Last 5 Revisited
 

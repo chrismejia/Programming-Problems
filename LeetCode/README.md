@@ -2,10 +2,11 @@
 
 ## Completed
 
-| Problem                         | Completed   | Code Link                       |
-| ------------------------------- | ----------- | ------------------------------- |
-| Longest Non-repeating Substring | 07-Sep-2018 | [Problem](https://git.io/fAz0T) |
-| Two Sum                         | 06-Sep-2018 | [Problem](https://git.io/fAzUw) |
+| Problem                         | Completed   | Code Link                           |
+| ------------------------------- | ----------- | ----------------------------------- |
+| Median of Two Sorted Arrays     | 07-Sep-2018 | [Problem](Update link after commit) |
+| Longest Non-repeating Substring | 07-Sep-2018 | [Problem](https://git.io/fAz0T)     |
+| Two Sum                         | 06-Sep-2018 | [Problem](https://git.io/fAzUw)     |
 
 ## Need to Revisit
 
