@@ -26,7 +26,7 @@ My notes and answers as JS files are also available to show my answer and steps 
 | #4 - Largest palindrome product   | EULER  | 30-Jul-2018 | [Prob 4](https://git.io/fARt6)   |
 | #7 - 10 001st prime               | EULER  | 29-Jul-2018 | [Prob 7](https://git.io/fARtM)   |
 
-### [View Master List of Problems](https://git.io/fARuO)
+### [View Master List of Problems](https://git.io/fAz0p)
 
 ---
 
