@@ -3,7 +3,6 @@
 // ===================================
 
 function longestNonRepeatingSubString(string) {
-  debugger;
   // default case: if all chars in string are the same, len = 1
   let subStr = "";
   let subStrLen = 1;
