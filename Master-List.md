@@ -1,9 +1,10 @@
 # Master List of Problems
 
-## Completed (7)
+## Completed (8)
 
 | Problem                          | Source | Completed   | Code Link                       |
 | -------------------------------- | ------ | ----------- | ------------------------------- |
+| Longest Non-repeating Substring  | LEET   | 07-Sep-2018 | [Problem](https://git.io/fAz0T) |
 | Two Sum                          | LEET   | 06-Sep-2018 | [Problem](https://git.io/fAzUw) |
 | #76: Title Case [Easy]           | DAILY  | 05-Sep-2018 | [Problem](https://git.io/fAREH) |
 | All String Combinations          | W3R    | 04-Sep-2018 | [Problem](https://git.io/fARtq) |

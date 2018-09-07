@@ -8,13 +8,13 @@ My notes and answers as JS files are also available to show my answer and steps 
 
 ### Last 5 Completed
 
-| Problem                     | Source | Completed   | Prompt & Code                   |
-| --------------------------- | ------ | ----------- | ------------------------------- |
-| Two Sum                     | LEET   | 06-Sep-2018 | [Problem](https://git.io/fAzUw) |
-| #76: Title Case [Easy]      | DAILY  | 05-Sep-2018 | [Problem](https://git.io/fAREH) |
-| All String Combinations     | W3R    | 04-Sep-2018 | [Problem](https://git.io/fARtq) |
-| #6 - Sum square difference  | EULER  | 16-Jun-2016 | [Prob 6](https://git.io/fARtl)  |
-| #2 - Even Fibonacci Numbers | EULER  | 15-Jun-2016 | [Prob 2](https://git.io/fARtC)  |
+| Problem                         | Source | Completed   | Prompt & Code                   |
+| ------------------------------- | ------ | ----------- | ------------------------------- |
+| Longest Non-repeating Substring | LEET   | 07-Sep-2018 | [Problem](https://git.io/fAz0T) |
+| Two Sum                         | LEET   | 06-Sep-2018 | [Problem](https://git.io/fAzUw) |
+| #76: Title Case [Easy]          | DAILY  | 05-Sep-2018 | [Problem](https://git.io/fAREH) |
+| All String Combinations         | W3R    | 04-Sep-2018 | [Problem](https://git.io/fARtq) |
+| #6 - Sum square difference      | EULER  | 16-Jun-2016 | [Prob 6](https://git.io/fARtl)  |
 
 ### Last 5 Revisited
 
@@ -39,6 +39,8 @@ My notes and answers as JS files are also available to show my answer and steps 
 - [[WARS] Codewars:](https://www.codewars.com/) Programming exercises train a variety of skills
 
 - [[W3R] w3resource | JS:](https://projecteuler.net/archives) Collection of JS problems organized into categories
+
+### More Resources
 
 #### [GitHub Link Shortener](https://git.io/)
 

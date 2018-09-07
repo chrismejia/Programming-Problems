@@ -23,4 +23,4 @@ Note that the answer must be a substring, "pwke" is a subsequence and not a subs
 
 | Started     | Last revisited | Completed   |
 | ----------- | -------------- | ----------- |
-| 06-Sep-2018 | dd-MMM-yyyy    | dd-MMM-yyyy |
+| 06-Sep-2018 | 07-Sep-2018    | 07-Sep-2018 |
