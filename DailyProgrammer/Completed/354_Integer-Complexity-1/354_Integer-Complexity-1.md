@@ -108,4 +108,17 @@ BASE  UPPER BOUND
 upperBound test pass; 140 - 11 = 129 numbers saved from testing
 ```
 
-Don't even need internal array; just add on the spot.
+Don't even need internal array of factors; just add them together on the spot.
+
+### Sorting that array
+
+```js
+factorSumArr.sort(
+  // returns array with numbers sorted from low to high
+  (a, b) => {
+    return a - b;
+  }
+);
+```
+
+From here, we can just return the first entry

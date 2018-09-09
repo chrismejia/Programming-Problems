@@ -8,19 +8,18 @@ My notes and answers as JS files are also available to show my answer and steps 
 
 ### Last 5 Completed
 
-| Problem                         | Source | Completed   | Prompt & Code                   |
-| ------------------------------- | ------ | ----------- | ------------------------------- |
-| Median of Two Sorted Arrays     | LEET   | 07-Sep-2018 | [Problem](https://git.io/fAzud) |
-| Longest Non-repeating Substring | LEET   | 07-Sep-2018 | [Problem](https://git.io/fAzuK) |
-| Two Sum                         | LEET   | 06-Sep-2018 | [Problem](https://git.io/fAzUw) |
-| #76: Title Case [Easy]          | DAILY  | 05-Sep-2018 | [Problem](https://git.io/fAREH) |
-| All String Combinations         | W3R    | 04-Sep-2018 | [Problem](https://git.io/fARtq) |
+| Problem                           | Source | Completed   | Prompt & Code                           |
+| --------------------------------- | ------ | ----------- | --------------------------------------- |
+| #354 [Easy]: Integer Complexity 1 | DAILY  | 07-Sep-2018 | [Problem](Add link → move to completed) |
+| Median of Two Sorted Arrays       | LEET   | 07-Sep-2018 | [Problem](https://git.io/fAzud)         |
+| Longest Non-repeating Substring   | LEET   | 07-Sep-2018 | [Problem](https://git.io/fAzuK)         |
+| Two Sum                           | LEET   | 06-Sep-2018 | [Problem](https://git.io/fAzUw)         |
+| #76 [Easy]: Title Case            | DAILY  | 05-Sep-2018 | [Problem](Update link → rename folder)  |
 
 ### Last 5 Revisited
 
 | Problem                           | Source | Revisited   | Prompt & Code                    |
 | --------------------------------- | ------ | ----------- | -------------------------------- |
-| #354 [Easy]: Integer Complexity 1 | DAILY  | 07-Sep-2018 | [Problem](https://git.io/fAzMg)  |
 | #25 - 1000-digit Fibonacci number | EULER  | 02-Sep-2018 | [Prob 25](https://git.io/fARt7)  |
 | #5 - Smallest multiple            | EULER  | 31-Jul-2018 | [Prob 5](https://git.io/fARtX)   |
 | #22L - Names scores (lite)        | EULER  | 31-Jul-2018 | [Prob 22L](https://git.io/fARtH) |

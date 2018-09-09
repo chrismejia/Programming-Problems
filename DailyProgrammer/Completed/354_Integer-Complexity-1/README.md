@@ -2,6 +2,8 @@
 
 #### Date: 12-Mar-2018
 
+#### Completed: Regular Solution only - Bonuses need work
+
 Given a number A, find the smallest possible value of B+C, if B\*C = A. Here A, B, and C must all be positive integers. It's okay to use brute force by checking every possible value of B and C. You don't need to handle inputs larger than six digits. Post the return value for A = 345678 along with your solution.
 
 For instance, given A = 12345 you should return 838. Here's why. There are four different ways to represent 12345 as the product of two positive integers:

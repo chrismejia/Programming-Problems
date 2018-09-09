@@ -2,15 +2,16 @@
 
 ## Completed
 
-| Problem                | Completed   | Code Link                       |
-| ---------------------- | ----------- | ------------------------------- |
-| #76: Title Case [Easy] | 05-Sep-2018 | [Problem](https://git.io/fAREH) |
+| Problem                           | Completed   | Code Link                               |
+| --------------------------------- | ----------- | --------------------------------------- |
+| #354 [Easy]: Integer Complexity 1 | 07-Sep-2018 | [Problem](Add link → move to completed) |
+| #76 [Easy]: Title Case            | 05-Sep-2018 | [Problem](Update link → rename folder)  |
 
 ## Need to Revisit
 
-| Problem                           | Revisited   | Code Link                       |
-| --------------------------------- | ----------- | ------------------------------- |
-| #354 [Easy]: Integer Complexity 1 | 07-Sep-2018 | [Problem](https://git.io/fAzMg) |
+| Problem                   | Revisited   | Code Link                    |
+| ------------------------- | ----------- | ---------------------------- |
+| #### [DIFF]: Problem Name | dd-MMM-yyyy | [Problem](Add link → commit) |
 
 ---
 
@@ -59,3 +60,4 @@ Base folder, js, and md folder templates"
 ```
 
 [How a message committed like this looks](https://git.io/fAWiC)
+`
