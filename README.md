@@ -8,13 +8,13 @@ My notes and answers as JS files are also available to show my answer and steps 
 
 ### Last 5 Completed
 
-| Problem                           | Source | Completed   | Prompt & Code                           |
-| --------------------------------- | ------ | ----------- | --------------------------------------- |
-| #354 [Easy]: Integer Complexity 1 | DAILY  | 07-Sep-2018 | [Problem](Add link → move to completed) |
-| Median of Two Sorted Arrays       | LEET   | 07-Sep-2018 | [Problem](https://git.io/fAzud)         |
-| Longest Non-repeating Substring   | LEET   | 07-Sep-2018 | [Problem](https://git.io/fAzuK)         |
-| Two Sum                           | LEET   | 06-Sep-2018 | [Problem](https://git.io/fAzUw)         |
-| #76 [Easy]: Title Case            | DAILY  | 05-Sep-2018 | [Problem](Update link → rename folder)  |
+| Problem                           | Source | Completed   | Prompt & Code                   |
+| --------------------------------- | ------ | ----------- | ------------------------------- |
+| #354 [Easy]: Integer Complexity 1 | DAILY  | 07-Sep-2018 | [Problem](https://git.io/fA2MT) |
+| Median of Two Sorted Arrays       | LEET   | 07-Sep-2018 | [Problem](https://git.io/fAzud) |
+| Longest Non-repeating Substring   | LEET   | 07-Sep-2018 | [Problem](https://git.io/fAzuK) |
+| Two Sum                           | LEET   | 06-Sep-2018 | [Problem](https://git.io/fAzUw) |
+| #76 [Easy]: Title Case            | DAILY  | 05-Sep-2018 | [Problem](https://git.io/fA2Mk) |
 
 ### Last 5 Revisited
 
@@ -34,7 +34,7 @@ My notes and answers as JS files are also available to show my answer and steps 
 
 - [[DAILY] DailyProgrammer:](https://www.reddit.com/r/dailyprogrammer) 3 challenges a week are posted at increasing difficulty.
 - [[EULER] Project Euler:](https://projecteuler.net/archives) Math-oriented programming problems
-- [[LEET] LeetCode:](https://leetcode.com/) An effective resource to prepare for technical interviews and practice poding questions
+- [[LEET] LeetCode:](https://leetcode.com/problemset/all/) An effective resource to prepare for technical interviews and practice poding questions
 - [[WARS] Codewars:](https://www.codewars.com/) Programming exercises train a variety of skills
 - [[W3R] w3resource | JS:](https://projecteuler.net/archives) Collection of JS problems organized into categories
 

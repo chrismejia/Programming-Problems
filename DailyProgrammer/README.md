@@ -2,10 +2,10 @@
 
 ## Completed
 
-| Problem                           | Completed   | Code Link                               |
-| --------------------------------- | ----------- | --------------------------------------- |
-| #354 [Easy]: Integer Complexity 1 | 07-Sep-2018 | [Problem](Add link → move to completed) |
-| #76 [Easy]: Title Case            | 05-Sep-2018 | [Problem](Update link → rename folder)  |
+| Problem                           | Completed   | Code Link                       |
+| --------------------------------- | ----------- | ------------------------------- |
+| #354 [Easy]: Integer Complexity 1 | 07-Sep-2018 | [Problem](https://git.io/fA2MT) |
+| #76 [Easy]: Title Case            | 05-Sep-2018 | [Problem](https://git.io/fA2Mk) |
 
 ## Need to Revisit
 
