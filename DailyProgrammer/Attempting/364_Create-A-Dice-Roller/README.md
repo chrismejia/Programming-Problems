@@ -10,7 +10,8 @@ I love playing D&D with my friends, and my favorite part is creating character s
 
 ### Formal Inputs & Outputs
 
-Input description
+### Input description
+
 Your input will contain one or more lines, where each line will be in the form of "NdM"; for example:
 
 ```
