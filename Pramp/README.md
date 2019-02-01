@@ -4,7 +4,7 @@
 
 | Problem      | Completed   | Code Link                           |
 |--------------|-------------|-------------------------------------|
-| Problem Name | dd-MMM-yyyy | [Problem](Update link after commit) |
+| Zero Locator | 31-Jan-2019 | [Problem](Update link after commit) |
 
 ## Need to Revisit
 
