@@ -12,6 +12,8 @@
 
 /**
  * CODE
+ * TIME:
+ * MEMORY:
  */
 
 /**
@@ -24,7 +26,7 @@
  * READ             0
  * EXPLAIN          0
  * APPROACH         0
- * CODE [FAIl]      0
+ * CODE [FAIL]      0
  * TEST             0
  * OPTIMIZE         0
  */

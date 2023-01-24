@@ -49,10 +49,10 @@ var reverseList = function (currNode, prevNode) {};
  */
 
 /**
- * READ             0
- * EXPLAIN          0
- * APPROACH         0
- * CODE [FAIl]      0
+ * READ             01:29
+ * EXPLAIN          11:54   13:23
+ * APPROACH         09:01   22:25
+ * CODE [FAIl]      10:14   32:39
  * TEST             0
  * OPTIMIZE         0
  */
